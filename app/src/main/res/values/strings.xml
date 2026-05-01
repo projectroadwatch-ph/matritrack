@@ -5,6 +5,7 @@
     <string name="footings">Footings</string>
     <string name="columns">Columns</string>
     <string name="nav_home">Dashboard</string>
+    <string name="nav_dashboard">Dashboard</string>
     <string name="nav_projects">Projects</string>
     <string name="nav_reports">Reports &amp; Analytics</string>
     <string name="nav_settings">Settings</string>

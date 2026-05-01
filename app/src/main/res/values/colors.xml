@@ -12,4 +12,5 @@
     <color name="brand_ink">#063846</color>
     <color name="card_background">#085869</color>
     <color name="feature_icon_background">#2D7180</color>
+    <color name="icon_tile_background">#2D7180</color>
 </resources>
