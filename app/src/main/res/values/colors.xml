@@ -7,5 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="bottom_nav_item_tint">#1F1F1F</color>
+    <color name="screen_background">#EAF0F2</color>
+    <color name="brand_text">#083D4E</color>
+    <color name="primary_card">#045163</color>
+    <color name="icon_tile_background">#3D7281</color>
+    <color name="icon_foreground">#E6F5F8</color>
+    <color name="bottom_nav_item_tint">#6D8891</color>
 </resources>
