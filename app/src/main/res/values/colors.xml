@@ -7,10 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="screen_background">#EAF0F2</color>
-    <color name="brand_text">#083D4E</color>
-    <color name="primary_card">#045163</color>
-    <color name="icon_tile_background">#3D7281</color>
-    <color name="icon_foreground">#E6F5F8</color>
-    <color name="bottom_nav_item_tint">#6D8891</color>
+    <color name="bottom_nav_item_tint">#476D78</color>
+    <color name="screen_background">#DCE1E3</color>
+    <color name="brand_ink">#063846</color>
+    <color name="card_background">#085869</color>
+    <color name="feature_icon_background">#2D7180</color>
 </resources>
