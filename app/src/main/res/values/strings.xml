@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">Matritrack</string>
-    <string name="nav_home">Home</string>
+    <string name="brand_name">MATRITRACK</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="footings">Footings</string>
+    <string name="columns">Columns</string>
+    <string name="nav_dashboard">Dashboard</string>
     <string name="nav_projects">Projects</string>
-    <string name="nav_reports">Reports</string>
-    <string name="nav_analysis">Analysis</string>
+    <string name="nav_reports">Reports &amp; Analytics</string>
     <string name="nav_settings">Settings</string>
 </resources>
